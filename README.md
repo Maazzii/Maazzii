@@ -1,6 +1,9 @@
 ### Hi there 👋
 This is Maazzii, a web developer dreamer!
 
+### Profile
+<a href="http://maazzii.github.io"><img height="24px" src="https://img.shields.io/badge/🔗maazzii.github.io-49B48A?style=flat-square"/></a>
+
 ### Skills
 <p align="center">
   <img height="24px" src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img height="24px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img height="24px" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/> <img height="24px" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/><br>
